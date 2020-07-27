@@ -1,8 +1,12 @@
-# Hello there !
-
 <p align="center">
   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" />
 </p>
+
+---
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Adonis-Stavridis)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adonis-stavridis-profile/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adonis.stavridis@gmail.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adonis-Stavridis&count_private=true&show_icons=true&theme=dark)
 
