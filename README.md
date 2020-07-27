@@ -4,8 +4,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adonis-Stavridis&count_private=true&show_icons=true&theme=dark)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Adonis-Stavridis&repo=Doge-Extension&theme=dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Adonis-Stavridis&repo=Cubos&theme=dark)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Adonis-Stavridis&repo=Doge-Extension&theme=dark)](https://github.com/Adonis-Stavridis/Doge-Extension)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Adonis-Stavridis&repo=Cubos&theme=dark)](https://github.com/Adonis-Stavridis/Cubos)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adonis-Stavridis&layout=compact&hide=c%23&theme=dark)
 
