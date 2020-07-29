@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" />
+  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif"/>
 </p>
 
 ---
@@ -21,8 +21,10 @@
 
 ## Tools
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-blue?style=flat&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-purple?style=flat&logo=visual-studio&logoColor=white)
+![Visual Studio
+Code](https://img.shields.io/badge/-Visual_Studio_Code-blue?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual
+Studio](https://img.shields.io/badge/-Visual_Studio-purple?style=flat&logo=visual-studio&logoColor=white)
 ![Atom](https://img.shields.io/badge/-Atom-grey?style=flat&logo=Atom&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-tomato?style=flat&logo=Git&logoColor=white)
 ![Qt](https://img.shields.io/badge/-Qt-limegreen?style=flat&logo=Qt&logoColor=white)
@@ -33,12 +35,10 @@
 ![Blender](https://img.shields.io/badge/-Blender-orange?style=flat&logo=Blender&logoColor=white)
 ![Maya](https://img.shields.io/badge/-Maya-lightseagreen?style=flat&logo=Autodesk&logoColor=white)
 
-## Some Stats
+## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adonis-Stavridis&count_private=true&show_icons=true&theme=dark)
-
-![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adonis-Stavridis&layout=compact&hide=c%23&theme=dark)
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=Adonis-Stavridis&count_private=true&show_icons=true&theme=dark)
 
 ---
 
