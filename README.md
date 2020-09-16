@@ -29,6 +29,7 @@ Studio](https://img.shields.io/badge/-Visual_Studio-purple?style=flat&logo=visua
 ![Git](https://img.shields.io/badge/-Git-tomato?style=flat&logo=Git&logoColor=white)
 ![Qt](https://img.shields.io/badge/-Qt-limegreen?style=flat&logo=Qt&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-slategrey?style=flat&logo=OpenGL&logoColor=white)
+![React](https://img.shields.io/badge/-React-turquoise?style=flat&logo=React&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-dodgerblue?style=flat&logo=Windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=Linux&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-darkgrey?style=flat&logo=Unity&logoColor=white)
