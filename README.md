@@ -25,6 +25,7 @@
 Code](https://img.shields.io/badge/-Visual_Studio_Code-blue?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-tomato?style=flat&logo=Git&logoColor=white)
 ![React](https://img.shields.io/badge/-React-turquoise?style=flat&logo=React&logoColor=white)
+![CMake](https://img.shields.io/badge/-CMake-darkblue?style=flat&logo=CMake&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-slategrey?style=flat&logo=OpenGL&logoColor=white)
 ![Qt](https://img.shields.io/badge/-Qt-limegreen?style=flat&logo=Qt&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-dodgerblue?style=flat&logo=Windows&logoColor=white)
