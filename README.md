@@ -44,7 +44,7 @@ Code](https://img.shields.io/badge/-Visual_Studio_Code-blue?style=flat&logo=visu
 ![GitHub
 Stats](https://github-readme-stats.vercel.app/api?username=Adonis-Stavridis&count_private=true&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adonis-Stavridis&layout=compact&theme=dark&exclude_repo=Life-of-Amir,Anima-Forum&langs_count=6&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adonis-Stavridis&layout=compact&theme=dark&exclude_repo=Life-of-Amir,Anima-Forum&langs_count=6&hide=php,css,html,twig,yacc)
 
 ---
 
