@@ -50,6 +50,5 @@ Stats](https://github-readme-stats.vercel.app/api?username=Adonis-Stavridis&coun
 
 [![Github](https://img.shields.io/badge/-Adonis--Stavridis-black?style=flat&logo=Github&logoColor=white)](https://github.com/Adonis-Stavridis)
 [![LinkedIn](https://img.shields.io/badge/-Adonis_Stavridis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adonis-stavridis/)
-[![Gmail](https://img.shields.io/badge/-adonis.stavridis@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:adonis.stavridis@gmail.com)
 
 ![Profile views](https://gpvc.arturio.dev/Adonis-Stavridis)
